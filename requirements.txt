@@ -1,0 +1,4 @@
+pyrogrammod==2.4.1
+py-tgcalls==2.2.11
+TgCrypto==1.2.5
+python-dotenv==1.0.1
